@@ -1,2 +1,2 @@
 master
-b更新
+b在master合并之前更新
